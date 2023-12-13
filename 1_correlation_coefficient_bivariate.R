@@ -1,14 +1,5 @@
 # Calculate the correlation coefficient for following bivarite data
-#   x	     18	  19	  20	   21		   Total
-#   y
-# 10-20	   4	   2	   2	    0		     8
-# 20-30	   5	   4	   6	    4	     	19	
-# 30-40	   6   	8   	10	   11	    	35	
-# 40-50	   4   	4	   6	    8     		22
-# 50-60   	0	   2	   4    	4     		10
-# 60-70   	0	   2	   3    	1     		6
 
-# Total   	19	  22	  31	   28		    100
 
 
 ###################################
