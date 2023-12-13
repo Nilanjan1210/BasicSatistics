@@ -1,3 +1,7 @@
+# Calculate the correlation coefficient for following bivarite data
+
+
+
 ###################################
 # Date = 12-12-2023
 x <- c(18,19,20,21)
