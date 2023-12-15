@@ -39,7 +39,8 @@ mu_u
 mu_v <- (sum(v*v*f_v)/N) - mean_v*mean_v
 mu_v
 
-
+corr <- cov_uv/sqrt(mu_u*mu_v)
+corr
 
 
 
